@@ -1,0 +1,16 @@
+h1{
+    color:red;
+    text-decoration: arial;
+}
+p{
+    color: blue;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#h2{
+    color: brown;
+
+}
+label{
+    color: rgb(146, 127, 255);
+}
